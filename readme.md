@@ -3,9 +3,13 @@
 ## Overview
 I developed a comprehensive navigation application utilizing the OpenRouteService API for backend route information retrieval and Leaflet with OpenStreetMap for the frontend mapping and navigation display. This application supports various routing systems, including foot, car, and bicycle, and allows for multiple waypoints to be included in routes.
 
+![Project Image](img/1.png)
+
 ## Key Features
 
 - **Dynamic Routing**: The application can calculate routes for different modes of transportation such as foot, car, and bicycle. Users can easily switch between these modes to get the most suitable route for their journey.
+
+![Project Image](img/FujiNavi.png)
 
 - **Waypoint Support**: Users can add multiple waypoints to their routes, allowing for complex routing needs. This is particularly useful for trips that require multiple stops along the way.
 
